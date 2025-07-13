@@ -1,0 +1,4 @@
+This is a text that I will use to to practice adding and commiting text files.
+This will also be added in a MacOS system.
+
+"Hello Odin!!"
